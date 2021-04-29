@@ -1,0 +1,9 @@
+{
+  "function": {
+    "multiplefunctionec0b1d53": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
