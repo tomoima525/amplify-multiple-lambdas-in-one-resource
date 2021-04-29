@@ -1,4 +1,5 @@
-This repo showcases adding multiple lambda functions in one resource using Amplify
+This repo showcases adding multiple lambda functions in one resource using Amplify 
+(team-provider-info.json is masked so you need to modify that file in order to use this repository)
 
 # Why do you need this?
 
